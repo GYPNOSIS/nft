@@ -250,21 +250,21 @@ section .online-shop h3 {
     color: var(--qora-);
 }
 
-section .ring-drops {
+section .drops {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 50px 110px;
 }
 
-section .ring-drops h2 {
+section .drops h2 {
     font-size: 48px;
     font-weight: 600;
     letter-spacing: 2%;
     color: var(--qora-);
 }
 
-section .ring-drops h4 {
+section .drops h4 {
     font-size: 20px;
     font-weight: 400;
     letter-spacing: 2%;
@@ -275,13 +275,13 @@ section .ring-drops h4 {
     color: var(--qora-);
 }
 
-section .ring-drops .boxes {
+section .drops .boxes {
     display: grid;
     grid-template-columns: auto auto auto auto;
     gap: 20px;
 }
 
-section .ring-drops .box {
+section .drops .box {
     background-color: #F4F4F4;
     box-shadow: 12px 18px 30px 0px #00000028;
     border-radius: 20px;
@@ -289,11 +289,11 @@ section .ring-drops .box {
     overflow: hidden;
 }
 
-section .ring-drops .half-box {
+section .drops .half-box {
     padding: 20px 30px;
 }
 
-section .ring-drops h3 {
+section .drops h3 {
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 2%;
@@ -389,7 +389,7 @@ section .blogs .hidden {
     bottom: 0;
 }
 
-section .ring-drops .images {
+section .drops .images {
     display: grid;
     grid-template-columns: auto auto auto auto;
     gap: 20px;
